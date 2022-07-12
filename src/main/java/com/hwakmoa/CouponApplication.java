@@ -14,4 +14,12 @@ public class CouponApplication {
 	public static String test1() {
 
 	}
+
+	public static String test2(){
+		return "1";
+	}
+	public static String test3(){		return "1";
+	}
+	public static String test4(){		return "1";
+	}
 }
