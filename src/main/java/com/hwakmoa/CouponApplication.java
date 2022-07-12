@@ -10,4 +10,5 @@ public class CouponApplication {
 		SpringApplication.run(CouponApplication.class, args);
 	}
 
+	//test complie
 }
