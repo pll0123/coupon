@@ -11,4 +11,7 @@ public class CouponApplication {
 	}
 
 	//test complie
+	public static String test1() {
+
+	}
 }
